@@ -40,9 +40,6 @@ module.exports = {
     })
   ],
   devServer: {
-    allowedHosts: [
-      '.quadnix.com',
-      'lvh.me'
-    ]
+    disableHostCheck: true
   }
 };

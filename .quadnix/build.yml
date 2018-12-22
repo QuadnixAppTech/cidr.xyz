@@ -1,6 +1,10 @@
 version: 0.1
 
 phases:
+  pre_build:
+    commands:
+      - mv .quadnix/package.json ./package.json
+      - mv .quadnix/webpack.config.js ./webpack.config.js
   install:
     commands:
       - npm install

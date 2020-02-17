@@ -2,8 +2,7 @@
 
 Web-based CIDR / netmask / IP address visualizer - https://cidr.xyz
 
-You can also play this plugin [here](https://plugins.quadnix.com/launch?author=quadnix&id=cidr-xyz),
-powered by [Quadnix Plugins](https://plugins.quadnix.com).
+or, [click here](http://cidr-quadnix.engine.quadnix.com) to play the CIDR application in Quadnix Plugins.
 
 ## Dev
 
